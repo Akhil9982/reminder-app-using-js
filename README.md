@@ -3,7 +3,7 @@
 A lightweight, browser-based reminder application built to demonstrate core JavaScript mechanics. This project focuses on DOM manipulation, asynchronous event handling, and persistent state management without relying on external frameworks.
 
 ## 🚀 Live Deployment
-[**View Live Demo**](https://akhil9982.github.io/reminder-app-using-js/) *(Update this link if your deployment URL is different)*
+[**View Live Demo**](https://akhil9982.github.io/reminder-app-using-js/)
 
 ## ✨ Core Features
 * **CRUD Mechanics:** Create, read, update, and delete reminder instances dynamically.
